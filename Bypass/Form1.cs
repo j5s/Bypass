@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Bypass
+namespace qwqdanchun
 {
     public partial class Form1 : Form
     {
